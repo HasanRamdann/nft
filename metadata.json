@@ -1,0 +1,8 @@
+{
+  "name": "Nft Gen v27",
+  "description": "A professional-grade car customization tool with parts management, rarity control, real-time preview, and AI-powered design balancing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
